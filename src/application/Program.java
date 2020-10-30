@@ -1,10 +1,12 @@
 package application;
 
+import java.awt.print.Book;
+
 public class Program {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+	
+		Book l = new Book();
 	}
 
 }
